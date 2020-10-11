@@ -25,3 +25,4 @@ hs_err_pid*
 /BasicStructureSpringBootMVC/target/
 /BasicStructureSpringBootMVCWithErrorController/target/
 /BasicStructureSpringBootMVCWithJdbcTemplate/target/
+/BasicStructureSpringBootMVCWithJdbcTemplateStoreProcedure/target/
