@@ -27,3 +27,5 @@ hs_err_pid*
 /BasicStructureSpringBootMVCWithJdbcTemplate/target/
 /BasicStructureSpringBootMVCWithJdbcTemplateStoreProcedure/target/
 /BasicStructureSpringBootMVCResource/target/
+/BasicStructureSpringBootMVCFileUpload/target/
+/BasicStructureSpringBootMVCFileUploadExample/target/
